@@ -5,7 +5,7 @@ let products = {
       title: "jbl",
       category: "headphone",
       price: "300",
-      image: "q (1).webp",
+      image: "e.webp",
       purchase: "https://api.whatsapp.com/send?phone=919679432975&text=i_want_to_buy_sony_cx239",
     },
     {
@@ -13,7 +13,7 @@ let products = {
       title: "boat",
       category: "headphone",
       price: "300",
-      image: "q (2).webp",
+      image: "f.webp",
       purchase: "https://api.whatsapp.com/send?phone=919679432975&text=i_want_to_buy_sony_cx239",
     },
     {
@@ -21,7 +21,7 @@ let products = {
       title: "boat",
       category: "headphone",
       price: "300",
-      image: "q (3).webp",
+      image: "g.webp",
       purchase: "https://api.whatsapp.com/send?phone=919679432975&text=i_want_to_buy_sony_cx239",
     },
     {
@@ -29,7 +29,7 @@ let products = {
       title: "boat",
       category: "earbud",
       price: "300",
-      image: "q (4).webp",
+      image: "h.webp",
       purchase: "https://api.whatsapp.com/send?phone=919679432975&text=i_want_to_buy_sony_cx239",
     },
     
